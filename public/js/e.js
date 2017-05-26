@@ -373,7 +373,7 @@ $(function () {
 
         ]
     };
-    var chart4 = $('.kBox').renderEcharts('line', option);
+    var chart4 = $('.kBox').renderEcharts('k', option);
 
 });
 
